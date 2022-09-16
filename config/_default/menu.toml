@@ -1,8 +1,8 @@
 # Configure main menu and social menu
 [[main]]
-identifier = "oldblog"
-name = "旧站"
-url = "https://rei.meta.io"
+identifier = "learnData"
+name = "知识库"
+url = "https://zhikunhan.github.io/"
 weight = 10000
     [main.params]
     icon = "home"
@@ -12,7 +12,7 @@ weight = 10000
 identifier = "github"
 name = "GitHub"
 weight = 1
-url = "https://github.com/ACRei"
+url = "https://github.com/ZhikunHan"
     [social.params]
     icon = "brand-github"
     newtab = true
@@ -21,7 +21,7 @@ url = "https://github.com/ACRei"
 identifier = "twitter"
 name = "Twitter"
 weight = 2
-url = "https://twitter.com/ReiAccept"
+url = "https://twitter.com/Han_tiv"
     [social.params]
     icon = "brand-twitter"
     newtab = true
@@ -30,7 +30,7 @@ url = "https://twitter.com/ReiAccept"
 identifier = "telegram"
 name = "Telegram"
 weight = 3
-url = "https://t.me/ReiOnTheLoaf"
+url = "https://t.me/hantiv"
     [social.params]
     icon = "telegram"
     newtab = true
@@ -39,7 +39,7 @@ url = "https://t.me/ReiOnTheLoaf"
 identifier = "Email"
 name = "Email"
 weight = 4
-url = "mailto:lhh@live.com"
+url = "mailto:zhikun.han@outlook.com"
   [social.params]
   icon = "email"
   newTab = true

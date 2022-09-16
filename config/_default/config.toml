@@ -1,9 +1,9 @@
 # Change baseurl before deploy
-baseurl = "https://rei.ac"
+baseurl = "https://hit.moe"
 languageCode = "zh-hans"
 theme = "hugo-theme-stack"
 paginate = 8
-title = "Rei's Blog"
+title = "Han_tiv's Blog"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
@@ -16,4 +16,4 @@ hasCJKLanguage = true
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
 
-googleAnalytics = "UA-97060993-1"
+googleAnalytics = "UA-175949250-1"

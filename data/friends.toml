@@ -1,27 +1,8 @@
 [[friend]]
-name = "王神仙"
-url = "https://www.cnblogs.com/onglublog/"
-avatar = "https://q1.qlogo.cn/g?b=qq&nk=632599557&s=640"
-desc = "WSX%%%，XCPC金牌爷"
-
-[[friend]]
-name = "凯爷"
-url = "https://kaizynx.github.io/"
-avatar = "https://cdn.jsdelivr.net/gh/KaizynX/cdn/img/custom/avatar.gif"
-desc = "凯爷%%%，我的爱豆，WF选手，我ACM板子都是学他的"
-
-[[friend]]
 name = "嘤嘤嘤嘤嘤"
 url = "https://withghost.github.io/"
 avatar = "https://q1.qlogo.cn/g?b=qq&nk=1023461968&s=640"
 desc = "超可爱！"
-
-
-[[friend]]
-name = "蓝天天"
-url = "http://fubluesky.github.io/"
-avatar = "https://q1.qlogo.cn/g?b=qq&nk=936992197&s=640"
-desc = "挺可爱的，就是有点傻，是鲍鲍的女朋友哦"
 
 [[friend]]
 name = "文哥"
@@ -54,55 +35,7 @@ avatar = "https://q1.qlogo.cn/g?b=qq&nk=2652088766&s=640"
 desc = ""
 
 [[friend]]
-name = "涩队CSL's blog"
-url = "https://cubercsl.site/"
-avatar = "https://blog.cubercsl.site/avatar-120.png"
-desc = "The end is always near."
-
-[[friend]]
 name = "BruceChen"
 url = "https://brucec.cn/"
 avatar = "https://static.brucec.cn/image/avatar/my/avatar_1080w.webp"
 desc = "QwQ"
-
-[[friend]]
-name = "Hiromi Yuasa"
-url = "https://hiromi.eu.org/"
-avatar = "https://avatars.githubusercontent.com/u/72242390"
-desc = "涩涩！（需梯子）"
-
-[[friend]]
-name = "koto-k"
-url = "https://www.cnblogs.com/koto-k/"
-avatar = "https://q1.qlogo.cn/g?b=qq&nk=2557746160&s=640"
-desc = "Keep your feet on your track."
-
-[[friend]]
-name = "Aclarar"
-url = "https://collapsemos.top/"
-avatar = "https://q1.qlogo.cn/g?b=qq&nk=1957762024&s=640"
-desc = "爱与和平♂"
-
-[[friend]]
-name = "Mauve"
-url = "https://hukeqing.github.io/"
-avatar = "https://hukeqing.github.io/image/about/avatar.png"
-desc = "欢迎，许久不见，甚是想念"
-
-[[friend]]
-name = "鲍鲍"
-url = "https://zning-b.github.io/"
-avatar = "https://q1.qlogo.cn/g?b=qq&nk=1026106774&s=640"
-desc = "是蓝天天的男朋友哦"
-
-[[friend]]
-name = "Season0518"
-url = "https://season0518.github.io/MyBlog/"
-avatar = "https://q1.qlogo.cn/g?b=qq&nk=1342367762&s=640"
-desc = "清纯学弟"
-
-[[friend]]
-name = "残城三梦 / Livinfly"
-url = "https://livinfly.top/"
-avatar = "https://q1.qlogo.cn/g?b=qq&nk=2756436359&s=640"
-desc = "坏了，我成学妹了"
