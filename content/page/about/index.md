@@ -14,7 +14,7 @@ menu:
       icon: user
 ---
 
-- 记录摸鱼的日常
+- 记录摸鱼的日常以及学到的东西
 - 本博客可以通过以下三个域名访问
   - 主域名 (CloudFlare Pages) : [hit.moe](https://hti.moe)
 
