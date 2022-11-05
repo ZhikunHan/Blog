@@ -15,8 +15,8 @@ menu:
 ---
 
 - 记录摸鱼的日常以及学到的东西
-- 本博客可以通过以下三个域名访问
-  - 主域名 (CloudFlare Pages) : [hit.moe](https://hti.moe)
+- 本博客可以通过以下域名访问
+  - 主域名 (CloudFlare Pages) : [hit.moe](https://blog.hti.moe)
 
 ## 关于我
 
@@ -31,16 +31,18 @@ menu:
 
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![GoLand](https://img.shields.io/static/v1?style=for-the-badge&message=GoLand&color=000000&logo=GoLand&logoColor=FFFFFF&label=)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![Hugo](https://img.shields.io/static/v1?style=for-the-badge&message=Hugo&color=FF4088&logo=Hugo&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
 
 ### Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ## 版权说明
 
